@@ -1,9 +1,4 @@
 {
-    "version": 2,
-    "builds": [
-      { "src": "package.json", "use": "@vercel/npm" },
-      { "src": "public/manifest.json", "use": "@vercel/static" },
-      { "src": "public/icon.png", "use": "@vercel/static" }
-    ]
+    "version": 2
   }
   
